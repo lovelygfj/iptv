@@ -1,6 +1,9 @@
 # IPTV
 
-Collection of 5000+ publicly available IPTV channels from all over the world.
+![auto-update](https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml/badge.svg)
+![clean](https://github.com/iptv-org/iptv/actions/workflows/clean.yml/badge.svg)
+
+Collection of publicly available IPTV channels from all over the world.
 
 Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks.
 
@@ -18,20 +21,40 @@ Also you can instead use one of these playlists:
 
 Or select one of the playlists from the list below.
 
-## Playlists by category
+### Playlists by category
+
+<details>
+<summary>Expand</summary>
+<br>
 
 <!-- prettier-ignore -->
 #include "./.readme/_categories.md"
 
-## Playlists by language
+</details>
+
+### Playlists by language
+
+<details>
+<summary>Expand</summary>
+<br>
 
 <!-- prettier-ignore -->
 #include "./.readme/_languages.md"
 
-## Playlists by country
+</details>
+
+### Playlists by country
+
+<details>
+<summary>Expand</summary>
+<br>
 
 <!-- prettier-ignore -->
 #include "./.readme/_countries.md"
+
+</details>
+
+**NOTE:** Add `.sfw` to the end of the filename for the lists without any adult channels (For example: `https://iptv-org.github.io/iptv/countries/fr.sfw.m3u`).
 
 ## For Developers
 
@@ -45,6 +68,10 @@ https://iptv-org.github.io/iptv/channels.json
 
 If successful, you should get the following response:
 
+<details>
+<summary>Expand</summary>
+<br>
+  
 ```
 [
   ...
@@ -53,16 +80,22 @@ If successful, you should get the following response:
     "logo": "https://i.imgur.com/ilZJT5s.png",
     "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
     "category": "News",
-    "language": [
+    "languages": [
       {
         "code": "eng",
         "name": "English"
       }
     ],
-    "country": {
-      "code": "us",
-      "name": "United States"
-    },
+    "countries": [
+      {
+        "code": "us",
+        "name": "United States"
+      },
+      {
+        "code": "ca",
+        "name": "Canada"
+      }
+    ],
     "tvg": {
       "id": "cnn.us",
       "name": "CNN",
@@ -72,6 +105,7 @@ If successful, you should get the following response:
   ...
 ]
 ```
+</details>
 
 ## Resources
 
@@ -79,10 +113,8 @@ You can find links to various IPTV related resources in this repository [iptv-or
 
 ## Contribution
 
-Please make sure to read the [Contributing Guide](.github/CONTRIBUTING.md) before sending an issue or making a pull request.
+Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
 
 ## Legal
 
-No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue.
-
-However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
+No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
