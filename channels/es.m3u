@@ -27,10 +27,6 @@ http://51.210.199.43/hls/stream.m3u8
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
 #EXTINF:-1 tvg-id="24h.es" tvg-name="24h" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",24h (576p)
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",24h (1080p)
-https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24h" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",24h (1080p)
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="25TV.es" tvg-name="25 TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",25 TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="28Kanala.es" tvg-name="28 Kanala" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/ya3k9wU.png" group-title="",28 Kanala (720p)
@@ -47,8 +43,6 @@ https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="7 Televisión Región de Murcia" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Televisión Región de Murcia (360p)
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",8 La Marina TV
-https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
 #EXTINF:-1 tvg-id="8TVCadiz.es" tvg-name="8 TV Cádiz" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",8 TV Cádiz
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es" tvg-name="9 la Loma TV" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/fpUaXqe.png" group-title="",9 la Loma TV
@@ -93,8 +87,6 @@ https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="Canal56.es" tvg-name="Canal 56" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 tvg-id="CANALCOSTATV.es" tvg-name="CANAL COSTA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png" group-title="",CANAL COSTA TV (720p)
-https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCoin.es" tvg-name="Canal Coín" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" group-title="",Canal Coín (576p)
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
 #EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
@@ -163,8 +155,6 @@ https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-id="CUATRO4TVVALLUXA.es" tvg-name="CUATRO 4 TV VALL UXA" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUVLq8nJbqLUY6jVbJvX0VMaoj1HVYu-OKg&usqp=CAU" group-title="",CUATRO 4 TV VALL UXA
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 tvg-id="CordobaTV.es" tvg-name="Córdoba TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Córdoba TV (720p)
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="DiezTV.es" tvg-name="Diez TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="Local",Distrito TV
@@ -189,10 +179,6 @@ https://live1-eltorotv.flumotion.com/playlist.m3u8
 https://streaming-audio-1.magentalabs.es:19360/eltorotv/eltorotv.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es" tvg-name="Elche 7 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="",Elche 7 TV
 https://streaming.elche7tv.es/hls/canal2.m3u8
-#EXTINF:-1 tvg-id="EsAsturiasTV.es" tvg-name="EsAsturiasTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320" group-title="",EsAsturiasTV (720p)
-https://5df8a678a3840.streamlock.net/8032/8032/chunklist_w872298128.m3u8
-#EXTINF:-1 tvg-id="EsAsturiasTV.es" tvg-name="EsAsturiasTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=320&height=320" group-title="",EsAsturiasTV (720p)
-https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="ESNETV.es" tvg-name="ESNE TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="Religious",ESNE TV (1080p)
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sports",Esport3 (1080p)
@@ -223,14 +209,10 @@ http://109.232.71.249/fibwiLIVE_movil/index.m3u8
 http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
 #EXTINF:-1 tvg-id="GALICIAHD.es" tvg-name="GALICIA HD" tvg-country="ES" tvg-language="" tvg-logo="https://pbs.twimg.com/media/D2lBaVIX0AISqxR.jpg" group-title="",GALICIA HD
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 tvg-id="GCMTV.es" tvg-name="GCM TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",GCM TV
-https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
 #EXTINF:-1 tvg-id="GoienaEus.es" tvg-name="Goiena Eus" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Goiena Eus
 https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-name="GOL" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",GOL (720p) [Geo-blocked]
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
-#EXTINF:-1 tvg-id="GuadaTV.es" tvg-name="Guada TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Guada TV
-https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="",Hamaika Telebista (1080p)
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:-1 tvg-id="HermesTV.es" tvg-name="Hermes TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Hermes TV
@@ -255,10 +237,6 @@ https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
 https://16escalones-live2.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="",La 1 (720p)
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 (1080p)
-https://rtvelivestream.akamaized.net/la1_bkp_dvr.m3u8
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 (1080p)
-https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 Canarias (576p)
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 Canarias (576p)
@@ -267,14 +245,8 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 Catalunya (576p)
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 1 Catalunya (1080p)
-https://rtvelivestream.akamaized.net/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2 (720p)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2 (720p)
-https://rtvelivestream.akamaized.net/la2_bkp_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2 (720p)
-https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La8Avila.es" tvg-name="La 8 Avila" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 8 Avila
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="La8Bierzo.es" tvg-name="La 8 Bierzo" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",La 8 Bierzo
@@ -333,12 +305,8 @@ https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="mtmad24h.es" tvg-name="mtmad 24h" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
-#EXTINF:-1 tvg-id="mtmad24h.es" tvg-name="mtmad 24h" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="MySurfTV.es" tvg-name="My Surf TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="",My Surf TV (720p)
 https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mírame TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="NavarraTVHD.es" tvg-name="Navarra TV HD" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Navarra TV HD
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="NavarraTVSD.es" tvg-name="Navarra TV SD" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Navarra TV SD
@@ -381,22 +349,10 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-name="Popular TV Melilla" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Local",Popular TV Melilla (720p)
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 tvg-id="PopularTVMurcia.es" tvg-name="Popular TV Murcia" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Popular TV Murcia
-https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
-#EXTINF:-1 tvg-id="PTVCordoba.es" tvg-name="PTV Córdoba" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",PTV Córdoba (1080p)
-https://streamer.zapitv.com/PTV-CORDOBA/index.m3u8
-#EXTINF:-1 tvg-id="PTVGranada.es" tvg-name="PTV Granada" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",PTV Granada (720p)
-https://streamer.zapitv.com/GRANADA/index.m3u8
-#EXTINF:-1 tvg-id="PTVMalaga.es" tvg-name="PTV Málaga" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",PTV Málaga (1080p)
-https://streamer.zapitv.com/PTV-MALAGA/index.m3u8
-#EXTINF:-1 tvg-id="PTVSevilla.es" tvg-name="PTV Sevilla" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",PTV Sevilla (720p)
-https://streamer.zapitv.com/PTV-SEVILLA/index.m3u8
 #EXTINF:-1 tvg-id="Punt3VallUixo.es" tvg-name="Punt 3 Vall Uixó" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Punt 3 Vall Uixó
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-id="PUNTCANAL3HD.es" tvg-name="PUNT CANAL 3 HD" tvg-country="ES" tvg-language="" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-punt-3-espana-en-vivo.jpg" group-title="",PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8?_=1
-#EXTINF:-1 tvg-id="Radio5.es" tvg-name="Radio 5" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Radio 5 (576p)
-https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionMarbella.es" tvg-name="Radio Televisión Marbella" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="",Radio Televisión Marbella
 https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionMelilla.es" tvg-name="Radio Televisión Melilla" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="",Radio Televisión Melilla (720p)
@@ -515,14 +471,10 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRibera.es" tvg-name="TeleRibera" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 tvg-id="TeleToledo.es" tvg-name="TeleToledo" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TeleToledo
-https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es" tvg-name="TeleVigo" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TeleVigo
 https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Local",Televisión Aranda
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 tvg-id="TelevisiondeAlicante.es" tvg-name="Televisión de Alicante" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Televisión de Alicante
-http://46.26.171.189:8081/hls/emisionalicante.m3u8
 #EXTINF:-1 tvg-id="TENTV.es" tvg-name="TEN TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="http://tentv.es/wp-content/uploads/2016/05/ten.png" group-title="",TEN TV (720p)
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tevecat.es" tvg-name="teve.cat" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",teve.cat
@@ -547,12 +499,8 @@ https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
 https://rtvc-live1.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOOSMOS.es" tvg-name="TV COOSMOS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" group-title="",TV COOSMOS (480p)
 https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TVdeSanVicente.es" tvg-name="TV de San Vicente" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV de San Vicente
-http://46.26.171.189:8081/hls/emisionsanvicente.m3u8
 #EXTINF:-1 tvg-id="TVExtremena.es" tvg-name="TV Extremeña" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Extremeña
 https://cdn01.yowi.tv/43J82FST7L/master.m3u8
-#EXTINF:-1 tvg-id="TVFerrol.es" tvg-name="TV Ferrol" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="TVGirona.es" tvg-name="TV Girona" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",TV Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-id="TVHellin.es" tvg-name="TV Hellín" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",TV Hellín (818p)
@@ -599,18 +547,12 @@ https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 http://78.41.83.88:8880/hls/unesd.m3u8
 #EXTINF:-1 tvg-id="UrbanRevolutionTV.es" tvg-name="Urban Revolution TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" group-title="",Urban Revolution TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-name="Urola Telebista" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="",Urola Telebista
-https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
-#EXTINF:-1 tvg-id="UrolaTV.es" tvg-name="Urola TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Urola TV
-https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" tvg-name="Visión 6 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="",Visión 6 TV
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 tvg-id="WebcamOndaMadrid.es" tvg-name="Webcam OndaMadrid" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Webcam OndaMadrid (360p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="WebcamOndaMadrid.es" tvg-name="Webcam OndaMadrid" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Webcam OndaMadrid (720p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
-#EXTINF:-1 tvg-id="ZafraTV.es" tvg-name="Zafra TV" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",Zafra TV
-https://cloud.streamingconnect.tv:455/radiotvzafra/radiotvzafra.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="À Punt" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="General",À Punt (720p)
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="À Punt" tvg-country="ES" tvg-language="" tvg-logo="" group-title="",À Punt (720p)

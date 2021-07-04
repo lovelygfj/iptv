@@ -39,8 +39,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="ACV.in" tvg-name="ACV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/FNBkLUA.jpg" group-title="",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ACVJukebox.in" tvg-name="ACV Jukebox" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/1L4YTlE.jpg" group-title="",ACV Jukebox (404p)
-https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 #EXTINF:-1 tvg-id="ACVNews.in" tvg-name="ACV News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="News",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ACVUtsav.in" tvg-name="ACV Utsav" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png" group-title="",ACV Utsav
@@ -91,14 +89,6 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="BollyWoodHD.in" tvg-name="BollyWood HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BollyWood HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BollywoodNow.in" tvg-name="Bollywood Now" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="",Bollywood TV (720p)
-https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
-#EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Bollywood TV
-https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="BOLLYWOODTV.in" tvg-name="BOLLYWOOD TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BOLLYWOOD TV
-https://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="",Boogle Bollywood (400p)
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="BritCom.in" tvg-name="BritCom" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",BritCom (720p)
@@ -175,8 +165,6 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-name="Global Punjab" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Global Punjab (720p)
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
-#EXTINF:-1 tvg-id="GurbaniHealing.in" tvg-name="Gurbani Healing" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="",Gurbani Healing (720p)
-https://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTVUSA.in" tvg-name="Harvest TV USA" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lzmU9zr.png" group-title="",Harvest TV USA (720p)
 https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HiruTV.in" tvg-name="Hiru TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png" group-title="",Hiru TV (360p)
@@ -251,8 +239,6 @@ http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/ind
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One (576p)
 http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tQvdxWo.jpg" group-title="News",Media One (1080p)
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="MH1Music.in" tvg-name="MH1 Music" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-id="MH1Music.in" tvg-name="MH1 Music" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",MH1 Music (360p)
@@ -337,8 +323,6 @@ https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimeCanadaTV.in" tvg-name="Prime Canada TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" group-title="Entertainment",Prime Canada TV (720p)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Prudent Media (576p)
-https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-id="PUNJABTV.in" tvg-name="PUNJAB TV" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",PUNJAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1 tvg-id="PunjabiZindabad.in" tvg-name="Punjabi Zindabad" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Punjabi Zindabad
