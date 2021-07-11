@@ -11,10 +11,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="Bolivisión" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KE0CrW7.png" group-title="",Bolivisión (486p)
 https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MDI2MjY0LCJzZXNzaW9uIjoiMTc0LjkyLjE4Ny4yNDgiLCJ3aGl0ZWxpc3QiOlsiMTc0LjkyLjE4Ny4yNDgiXX0sInNpZ25hdHVyZSI6IjU1YTc3ZjJmZDU4N2RiNWJiOTA5M2ZlMjMyMTkzMjdiMDRjY2YxZGUifQ
-#EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j7opA5I.png" group-title="",Mega TV (Yacuiba) (720p)
-https://stmv.panel.mivideo.pro/rtv/rtv/chunklist_w849315537.m3u8
-#EXTINF:-1 tvg-id="MegaTV.bo" tvg-name="Mega TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j7opA5I.png" group-title="",Mega TV (Yacuiba) (720p)
-https://stmv.panel.mivideo.pro/rtv/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedAdvenir.bo" tvg-name="Red Advenir" tvg-country="BO" tvg-language="" tvg-logo="" group-title="",Red Advenir (480p)
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:-1 tvg-id="RedAdvenir.bo" tvg-name="Red Advenir" tvg-country="BO" tvg-language="" tvg-logo="" group-title="",Red Advenir

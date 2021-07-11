@@ -13,8 +13,6 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV2.vn" tvg-name="Da Nang TV2" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="",Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="HBTV.vn" tvg-name="HBTV" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="",HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV.vn" tvg-name="KienGiangTV" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="",KienGiangTV
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV1.vn" tvg-name="KienGiangTV1" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="",KienGiangTV1

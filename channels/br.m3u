@@ -1,16 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (486p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AguiarBTV.br" tvg-name="Aguiar BTV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/cfldL9C.jpg" group-title="",Aguiar BTV (480p)
-http://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sports",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-id="Animestation.br" tvg-name="Animestation" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="",Animestation (480p)
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
 #EXTINF:-1 tvg-id="Animestation.br" tvg-name="Animestation" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="",Animestation (480p)
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
-#EXTINF:-1 tvg-id="BajoCeroTV.br" tvg-name="Bajo Cero TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/aRPmfji.jpg" group-title="Music",Bajo Cero TV (360p)
-https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV110.br" tvg-name="Brasil IPTV_110" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_18 (720p)
@@ -23,8 +19,6 @@ http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV5.br" tvg-name="Brasil IPTV_5" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_5 (240p)
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BRASILSBTImperatriz.br" tvg-name="BRASIL SBT Imperatriz" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",BRASIL SBT Imperatriz
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
 #EXTINF:-1 tvg-id="CGhost.br" tvg-name="C-Ghost" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="",C-Ghost (480p)
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1238458345.m3u8
 #EXTINF:-1 tvg-id="CGhost.br" tvg-name="C-Ghost" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="",C-Ghost (480p)
@@ -77,8 +71,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-id="PUCTVGoias.br" tvg-name="PUC TV Goiás" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" group-title="Religious",PUC TV Goiás (180p)
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="RecordNewsTVGuaraMA.br" tvg-name="Record News - TV Guará (MA)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/PafEXRA.png" group-title="",Record News - TV Guará (MA)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1 tvg-id="RecordTVManaus.br" tvg-name="RecordTV Manaus" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="",RecordTV Manaus (720p)
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-id="RecordTVNatalTVTropical.br" tvg-name="RecordTV Natal - TV Tropical" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="",RecordTV Natal - TV Tropical
@@ -115,8 +107,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 http://149.56.85.6:8341/play?1611806700516
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p)
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTTVCidadeVerdePI.br" tvg-name="SBT - TV Cidade Verde - (PI)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Cidade Verde - (PI) (1080p)
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="SBTTVJornalPE.br" tvg-name="SBT - TV Jornal (PE)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Jornal (PE) (720p)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTTVSerraDouradaGO.br" tvg-name="SBT - TV Serra Dourada - (GO)" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/WIDNIqB.png" group-title="",SBT - TV Serra Dourada - (GO)
@@ -137,14 +127,6 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Legislative",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-id="TVALRN.br" tvg-name="TV ALRN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Legislative",TV ALRN (480p)
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Local",TV Ambiental (480p)
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvarapuan.com.br/2019/images/uploaded/grupo/9729ae26c38070d5febf2aa538a1a880.png" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/cefSiod.jpg" group-title="",TV Birigui
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Movies",TV BNO (270p)
@@ -177,8 +159,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 #EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/W1LutVP.png" group-title="",TV Destak (480p)
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDIFUSORASUL.br" tvg-name="TV DIFUSORA SUL" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV DIFUSORA SUL (432p)
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
 #EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Local",TV Digital Birigui (320p)
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 #EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-name="TV Diário do Sertão" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="General",TV Diário do Sertão (720p)
@@ -195,8 +175,6 @@ https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-id="TVGIDEOESSD.br" tvg-name="TV GIDEOES SD" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV GIDEOES SD
 https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1771625136_b1296000.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="News",TV Guará (720p)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.br" tvg-name="TV IKIM" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",TV IKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TVInterlagos.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos (576p)
