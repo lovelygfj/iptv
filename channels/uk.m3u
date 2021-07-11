@@ -59,8 +59,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:b
 https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/manifest/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s24/index.m3u8
@@ -251,8 +249,6 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyWorldTV.uk" tvg-name="Rugby World TV" tvg-country="UK" tvg-language="" tvg-logo="" group-title="",Rugby World TV (720p)
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-id="SangatTelevision.uk" tvg-name="Sangat Television" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="",Sangat Television (720p)
-https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-name="Sheffield Live TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Local",Sheffield Live TV
 http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="SkiTV.uk" tvg-name="Ski TV" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="Sports",Ski TV (1080p)

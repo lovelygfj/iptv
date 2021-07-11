@@ -261,8 +261,6 @@ http://51.210.199.10/hls/stream.m3u8
 http://51.210.199.15/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Comedy
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaDocumentary.fr" tvg-name="Persiana Documentary" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Documentary
-http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-name="Persiana Family" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Family
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-name="Persiana Iranian" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="",Persiana Iranian
@@ -285,8 +283,6 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="",TF1 (576p)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="",TF1 (720p)
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="",TF1 Séries Films (720p)
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="",TFX (720p)

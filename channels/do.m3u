@@ -3,8 +3,6 @@
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-_c3Wai2yuIY/Xl-e-HIk2VI/AAAAAAAAr5w/-vzqG9PJsg0DPrpR299YXH3m2u2BsQRvgCLcBGAsYHQ/s200/Boreal%2BTelevision.jpg" group-title="",Boreal (720p)
 https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="",Canal 4 RD (720p)
-https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 #EXTINF:-1 tvg-id="CANAL5.do" tvg-name="CANAL 5" tvg-country="DO" tvg-language="" tvg-logo="" group-title="",CANAL 5 (720p)
 http://www.radiosargentina.com.ar/php/tvm3u.php
 #EXTINF:-1 tvg-id="CANALAME47HD.do" tvg-name="CANAL AME 47 HD" tvg-country="DO" tvg-language="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188.jpg?fbclid=IwAR1r-g3rV6p267JpjOxS7T-kt_or8H2T-ebvAtOyQlFqig7k8WTntWPYI7g#" group-title="",CANAL AME 47 HD
@@ -77,16 +75,12 @@ http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="",Telemicro (720p)
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1 tvg-id="Telemilenio.do" tvg-name="Telemilenio" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="",Telemilenio (720p)
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord12.do" tvg-name="Telenord 12" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="",Telenord 12 (720p)
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="",Telenord 8 (1080p)
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="TelenordCanal10.do" tvg-name="Telenord Canal 10" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="",Telenord Canal 10 (1080p)
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleradioAmerica.do" tvg-name="TeleradioAmerica" tvg-country="DO" tvg-language="" tvg-logo="" group-title="",TeleradioAmerica (480p)
-https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8
 #EXTINF:-1 tvg-id="TELESURCANAL10.do" tvg-name="TELESUR CANAL 10" tvg-country="DO" tvg-language="" tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="",TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="",Teleunion (480p)

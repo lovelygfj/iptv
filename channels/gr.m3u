@@ -45,8 +45,6 @@ https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CANNALITVHD.gr" tvg-name="CANNALI TV HD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="",CANNALI TV HD (720p)
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCTVMALLCY.gr" tvg-name="CBC TV MALL CY" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/W2wNukK.png" group-title="",CBC TV MALL CY (720p)
-https://s1.cystream.net/live/tvmall/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.gr" tvg-name="Channel 9" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/24uaLwh.png" group-title="Local",Channel 9 (720p)
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="CHANNEL9.gr" tvg-name="CHANNEL 9" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" group-title="",CHANNEL 9 (720p)
@@ -101,16 +99,10 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="ERT1HD.gr" tvg-name="ERT1 HD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/Dd3HM0I.png" group-title="",ERT1 HD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
-#EXTINF:-1 tvg-id="ERT2HD.gr" tvg-name="ERT2 HD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/cpzgu5L.png" group-title="",ERT2 HD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1 tvg-id="ERT3HD.gr" tvg-name="ERT3 HD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/GJjfeY8.png" group-title="",ERT3 HD
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
 #EXTINF:-1 tvg-id="ERTALEXTV.gr" tvg-name="ERTA LEX TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/gGqNDZN.png" group-title="",ERTA LEX TV
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 #EXTINF:-1 tvg-id="FAROSTV.gr" tvg-name="FAROS TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg" group-title="",FAROS TV (540p)
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1 tvg-id="FAROSTV2.gr" tvg-name="FAROS TV2" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/T8mB6Kg.jpg" group-title="",FAROS TV2 (480p)
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-id="FOXMUSIC.gr" tvg-name="FOX MUSIC" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/I4kzEBw.jpg" group-title="",FOX MUSIC (240p)
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GALAXYGR.gr" tvg-name="GALAXY GR" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="",GALAXY GR (368p)
@@ -193,8 +185,6 @@ http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 http://78.83.87.222:9999/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="tvopen.gr" tvg-name="Open TV HD" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/M6XG03v.png" group-title="",Open TV HD (576p)
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PANIKTV.gr" tvg-name="PANIK TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg" group-title="",PANIK TV (720p)
-https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
 #EXTINF:-1 tvg-id="PELLATV.gr" tvg-name="PELLA TV" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/9YFieqB.jpg" group-title="",PELLA TV (576p)
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-id="PlayTV.gr" tvg-name="Play TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="Music",Play TV (480p)
@@ -229,8 +219,6 @@ https://livestar.siliconweb.com/media/s tar1/star1mediumhd.m3u8
 http://78.83.87.222:9999/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="STARHD.gr" tvg-name="STAR HD" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/STAR.png" group-title="",STAR HD
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="Local",Start TV (480p)
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SUPERB.gr" tvg-name="SUPER B" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png" group-title="",SUPER B
 https://til.pp.ua:3424/live/superblive.m3u8
 #EXTINF:-1 tvg-id="SUPERCHANNELHD.gr" tvg-name="SUPER CHANNEL HD" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/5HV5pLu.jpg" group-title="",SUPER CHANNEL HD
@@ -243,8 +231,6 @@ https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 http://iptv1.gripfs.tk:8080/channel/709bb160/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.KzXTu4AXEXc0KBtLr1OMj2VVhkIK3OJeN8fyEW9yEfqM6FYVxqw-URTKK028zIuM-fArvKHG_hW2LevFtPa7ug
 #EXTINF:-1 tvg-id="TILEMOUSIKI.gr" tvg-name="TILEMOUSIKI" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="",TILEMOUSIKI
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 tvg-id="TOPCHANNEL.gr" tvg-name="TOP CHANNEL" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" group-title="",TOP CHANNEL (240p)
-https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" tvg-country="GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" group-title="",TV 100 (576p)
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-name="TV Creta" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" group-title="Local",TV Creta
